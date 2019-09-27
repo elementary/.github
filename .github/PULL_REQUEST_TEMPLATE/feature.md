@@ -10,9 +10,6 @@ assignees: ''
 ## Prerequisites
 
 Where required, I've:
-- [ ] Bumped this repo's minor version number in:
-    - [ ] Appdata.xml
-    - [ ] meson.build
 - [ ] Bumped dependency version numbers in:
     - [ ] meson.build
     - [ ] README.md
