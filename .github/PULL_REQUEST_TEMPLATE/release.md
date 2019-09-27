@@ -10,6 +10,7 @@ assignees: ''
 ## Prerequisites
 
 Where required, I've:
+
 - [ ] Validated this repo's version number in:
     - [ ] This PR's title
     - [ ] Appdata.xml
@@ -20,3 +21,4 @@ Where required, I've:
     - [ ] the `deb-packaging` branch
 - [ ] Validated screenshots
 - [ ] Validated new appdata changelog data
+- [ ] Updated the release data in appdata
