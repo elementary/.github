@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Feature Request
+about: Suggest a new idea or request a missing feature
 title: ''
 labels: 'Priority: Wishlist, Needs Design'
 assignees: ''
