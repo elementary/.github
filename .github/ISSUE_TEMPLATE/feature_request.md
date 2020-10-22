@@ -28,7 +28,4 @@ assignees: ''
 
 
 
-<!--
-* You are expected to comply with the elementary code of conduct: https://elementary.io/code-of-conduct
-* Please be sure to preview your issue before saving. Thanks!
--->
+<!--Please be sure to preview your issue before saving. Thanks!-->
