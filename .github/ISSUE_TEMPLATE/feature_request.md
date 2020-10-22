@@ -8,31 +8,27 @@ assignees: ''
 ---
 
 <!--
-By filing an Issue, you are expected to comply with the elementary code of conduct: https://elementary.io/code-of-conduct
-
-Please read and follow these tips:
-https://elementary.io/docs/code/reference#proposing-design-changes
-
-Lastly, be sure to preview your issue before saving. Thanks!
+* Please read and follow these tips: https://elementary.io/docs/code/reference#proposing-design-changes
+* Be sure to search open and closed issues for duplicates
 -->
 
-## Prerequisites
-- [ ] I have searched open and closed issues for duplicates.
 
-## Feature
-**Is your feature request related to a problem? Please describe.**
-<!--A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]-->
+## Problem
+<!--Describe the problem that this new feature or idea is meant to address-->
 
-<!--If applicable, add screenshots or screen recordings to help explain your problem.-->
 
-**Describe the solution you'd like**
-<!--A clear and concise description of what you want to happen. If possible, visualize.-->
 
-**Existing work**
-<!--Does this feature exist elsewhere? Please share as much info as possible about that approach.-->
+## Proposal
+<!--Describe the new feature or idea that you would like to propose-->
 
-**Describe alternatives you've considered**
-<!--A clear and concise description of any alternative solutions or features you've considered.-->
 
-**Additional context**
-<!--Add any other context or screenshots about the feature request here.-->
+
+## Prior Art
+<!--List any supporting examples of how others have implemented this feature-->
+
+
+
+<!--
+* You are expected to comply with the elementary code of conduct: https://elementary.io/code-of-conduct
+* Please be sure to preview your issue before saving. Thanks!
+-->
