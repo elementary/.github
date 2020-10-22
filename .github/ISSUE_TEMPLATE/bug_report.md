@@ -12,11 +12,6 @@ By filing an Issue, you are expected to comply with the elementary code of condu
 
 Please fill out this template with all the information you have. We can't do much without a detailed description of what you've encountered. Please do your best!
 
-Please note that this tracker is only for bugs and feature requests. Please try these locations if you have a question or comment:
-
-  https://elementaryos.stackexchange.com/
-  https://www.reddit.com/r/elementaryos/
-
 Please read and follow these tips:
 https://elementary.io/docs/code/reference#be-prepared-to-provide-more-information
 
