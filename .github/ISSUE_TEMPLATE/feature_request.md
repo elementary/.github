@@ -10,11 +10,6 @@ assignees: ''
 <!--
 By filing an Issue, you are expected to comply with the elementary code of conduct: https://elementary.io/code-of-conduct
 
-Please note that this tracker is only for bugs and feature requests. Please try these locations if you have a question or comment:
-
-  https://elementaryos.stackexchange.com/
-  https://www.reddit.com/r/elementaryos/
-
 Please read and follow these tips:
 https://elementary.io/docs/code/reference#proposing-design-changes
 
