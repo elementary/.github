@@ -42,7 +42,7 @@ assignees: ''
 * The version of the software you are using such as "1.0", "Compiled from git", or "Latest release" if you're not sure but you have run updates
 * Relevant hardware information such as graphics drivers, unconventional setups, etc.
 * If you're unsure, copy or screenshot information at System Settings -> About
-
+-->
 
 
 <!--Please be sure to preview your issue before saving. Thanks!-->
