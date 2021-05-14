@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: Feature request
 about: Suggest a new idea or request a missing feature
 title: ''
 labels: 'Priority: Wishlist, Needs Design'
