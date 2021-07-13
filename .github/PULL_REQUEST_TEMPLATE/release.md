@@ -1,10 +1,9 @@
 ---
 name: New Release
 about: Create a release commit
-title: '[Release] API.Feature.BugFix'
-labels: ''
+title: 'Release API.Feature.BugFix'
+labels: 'Release'
 assignees: ''
-
 ---
 
 ## Prerequisites
