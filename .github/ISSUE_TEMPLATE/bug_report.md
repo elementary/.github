@@ -41,7 +41,7 @@ assignees: ''
 * The version of elementary OS you are using, or other operating system
 * The version of the software you are using such as "1.0", "Compiled from git", or "Latest release" if you're not sure but you have run updates
 * Relevant hardware information such as graphics drivers, unconventional setups, etc.
-* If you're unsure, copy or screenshot information at System Settings -> About
+* If you're unsure, copy or screenshot the Operating System and Hardware information from System Settings → System
 -->
 
 
