@@ -1,14 +1,12 @@
 name: Feature Request
 description: Suggest a new idea or request a missing feature
 labels: [Priority: Wishlist, Needs Design]
-assignees:
-    - elementary/ux
 
 body:
   - type: markdown
     attributes:
       value: |
-          * Please read these [Tips](https://docs.elementary.io/contributor-guide/feedback/proposing-design-changes)
+          * Please read these [Tips](https://docs.elementary.io/contributor-guide/feedback/creating-feature-requests)
           * Be sure to search open and closed issues for duplicates
 
   - type: textarea
