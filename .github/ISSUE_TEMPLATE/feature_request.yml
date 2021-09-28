@@ -28,4 +28,4 @@ body:
       label: Prior Art
       description: List any supporting examples of how others have implemented this feature
     validations:
-      required: true
+      required: false
