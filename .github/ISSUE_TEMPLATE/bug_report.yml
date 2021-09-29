@@ -57,7 +57,7 @@ body:
 
   - type: textarea
     attributes:
-      label: Log output (Optional)
+      label: Log Output
       description: |
           * Fails without warning? Get and share debug logs by following: https://elementary.io/docs/code/os-dev#debug-logs
           * Unexpectedly quits or stops? Get and share crash logs by following: https://elementary.io/docs/code/os-dev#inspecting-crashes
@@ -65,5 +65,5 @@ body:
 
   - type: textarea
     attributes:
-      label: Hardware Info (Optional)
+      label: Hardware Info
       description: Relevant hardware information such as graphics drivers, unconventional setups, etc.
