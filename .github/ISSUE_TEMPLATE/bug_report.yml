@@ -59,8 +59,8 @@ body:
     attributes:
       label: Log Output
       description: |
-          * Fails without warning? Get and share debug logs by following: https://elementary.io/docs/code/os-dev#debug-logs
-          * Unexpectedly quits or stops? Get and share crash logs by following: https://elementary.io/docs/code/os-dev#inspecting-crashes
+          * Fails without warning? Get and share debug logs by following: https://docs.elementary.io/contributor-guide/feedback/reporting-issues/debug-logs
+          * Unexpectedly quits or stops? Get and share crash logs by following: https://docs.elementary.io/contributor-guide/feedback/reporting-issues/inspecting-crashes
       render: shell
 
   - type: textarea
