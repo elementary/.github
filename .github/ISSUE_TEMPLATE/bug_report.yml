@@ -40,6 +40,7 @@ body:
       options:
         - 6.x (Odin)
         - 5.x (Hera)
+        - 7.x (Early Access)
         - Other Linux
     validations:
       required: true
