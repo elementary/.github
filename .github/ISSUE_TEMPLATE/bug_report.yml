@@ -38,10 +38,10 @@ body:
       label: OS Version
       description: The version of elementary OS you are using, or other operating system
       options:
-        - 5.x (Hera)
-        - 6.x (Odin/Jólnir)
         - 7.x (Horus)
-        - 7.x (Early Access)
+        - 6.x (Odin/Jólnir)
+        - 5.x (Hera)
+        - Early Access
         - Other Linux
     validations:
       required: true
