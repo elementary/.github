@@ -41,7 +41,7 @@ body:
         - 7.x (Horus)
         - 6.x (Odin/Jólnir)
         - 5.x (Hera)
-        - Early Access
+        - 8.x (Early Access)
         - Other Linux
     validations:
       required: true
