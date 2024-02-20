@@ -7,6 +7,7 @@ body:
       value: |
           * Please read these [Tips](https://docs.elementary.io/contributor-guide/feedback/reporting-issues)
           * Be sure to search open and closed issues for duplicates
+          * Do not put [things in brackets] in your report title
 
   - type: textarea
     attributes:
