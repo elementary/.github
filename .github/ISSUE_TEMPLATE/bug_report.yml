@@ -49,6 +49,15 @@ body:
 
   - type: dropdown
     attributes:
+      label: Session Type
+      options:
+        - Classic Session (X11, This is the default)
+        - Secure Session (Wayland)
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
       label: Software Version
       description: The version of the software you are using
       options:
