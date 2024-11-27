@@ -39,10 +39,9 @@ body:
       label: OS Version
       description: The version of elementary OS you are using, or other operating system
       options:
+        - 8.x (Circe)
         - 7.x (Horus)
         - 6.x (Odin/Jólnir)
-        - 5.x (Hera)
-        - 8.x (Early Access)
         - Other Linux
     validations:
       required: true
