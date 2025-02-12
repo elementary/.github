@@ -1,5 +1,6 @@
 name: Issue Report
 description: Report an unexpected behavior or failure (AKA a bug)
+type: "Bug"
 
 body:
   - type: markdown
