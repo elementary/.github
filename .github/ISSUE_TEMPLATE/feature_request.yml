@@ -1,6 +1,7 @@
 name: Feature Request
 description: Suggest a new idea or request a missing feature
-labels: [Priority: Wishlist, Needs Design]
+labels: ["Priority: Wishlist", "Needs Design"]
+type: "Feature"
 
 body:
   - type: markdown
