@@ -53,6 +53,7 @@ body:
       options:
         - Classic Session (X11, This is the default)
         - Secure Session (Wayland)
+        - Classic and Secure Sessions (I have tested in both)
     validations:
       required: true
 
