@@ -49,6 +49,17 @@ body:
 
   - type: dropdown
     attributes:
+      label: OS Architecture
+      description: The architecture of elementary OS you are using
+      options:
+        - amd64 (on most hardwares)
+        - arm64 (Raspberry Pi, Apple Silicon, etc.)
+        - Other Architecture (unofficial, community-supported)
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
       label: Session Type
       options:
         - Classic Session (X11, This is the default)
