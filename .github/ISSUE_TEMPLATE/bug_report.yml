@@ -63,8 +63,8 @@ body:
     attributes:
       label: Session Type
       options:
-        - Classic Session (X11, This is the default)
-        - Secure Session (Wayland)
+        - Secure Session (Wayland, This is the default)
+        - Classic Session (X11)
         - Classic and Secure Sessions (I have tested in both)
     validations:
       required: true
