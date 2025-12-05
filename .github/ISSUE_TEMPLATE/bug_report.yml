@@ -42,7 +42,6 @@ body:
       options:
         - 8.x (Circe)
         - 7.x (Horus)
-        - 6.x (Odin/Jólnir)
         - Other Linux
     validations:
       required: true
