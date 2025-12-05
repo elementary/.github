@@ -51,10 +51,10 @@ body:
     attributes:
       label: OS Architecture
       description: The architecture of elementary OS you are using
+      multiple: true
       options:
         - amd64 (on most hardwares)
         - arm64 (on Raspberry Pi, Apple Silicon, etc.)
-        - amd64 and arm64 (I have tested on both)
         - Other Architecture (unofficial, community-supported)
     validations:
       required: true
@@ -62,10 +62,10 @@ body:
   - type: dropdown
     attributes:
       label: Session Type
+      multiple: true
       options:
         - Secure Session (Wayland, This is the default)
         - Classic Session (X11)
-        - Classic and Secure Sessions (I have tested in both)
     validations:
       required: true
 
